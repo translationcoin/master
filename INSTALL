@@ -1,0 +1,9 @@
+Building TranslationCoin
+
+See doc/readme-qt.rst for instructions on building TranslationCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of TranslationCoin.
+
+See doc/build-*.txt for instructions on building TranslationCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of TranslationCoin.
